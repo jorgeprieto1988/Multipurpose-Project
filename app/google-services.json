@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "267293202526",
+    "firebase_url": "https://quizzess-b705d.firebaseio.com",
+    "project_id": "quizzess-b705d",
+    "storage_bucket": "quizzess-b705d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267293202526:android:cd3ab67b160581bf0ebccf",
+        "android_client_info": {
+          "package_name": "edu.uoc.android.PEC3App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267293202526-qagsv0hq0snqv9hd0qclhs9f3omklcim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uoc.android.PEC3App",
+            "certificate_hash": "76252079e3c0790bf35d6772d1564db971f0d375"
+          }
+        },
+        {
+          "client_id": "267293202526-78jsm5f5unjms5e3r5dr0f61emc20kdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC16EHje-Io33kK8ZmuWu1H-AVgZDlbq4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267293202526-78jsm5f5unjms5e3r5dr0f61emc20kdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

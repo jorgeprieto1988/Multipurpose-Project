@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PEC3App</string>
+    <string name="maps">Mapas</string>
+    <string name="museums">Museos</string>
+    <string name="contacts">Contactos</string>
+    <string name="settings">Ajustes</string>
+    <string name="help">Ayuda</string>
+    <string name="quizzes">Cuestionario</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="data_conexion_error">Hubo un error al intentar recuperar los datos</string>
+    <string name="location_permission_error">Lo sentimos, pero tienes que aceptar los permisos de localización para ver el mapa en detalle</string>
+    <string name="img_ok">La imagen se guardó correctamente</string>
+    <string name="no_photo">Sin foto</string>
+    <string name="img_error">Lo sentimos, hubo un problema al crear el fichero</string>
+    <string name="camera">Hacer una foto</string>
+</resources>
